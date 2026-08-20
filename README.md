@@ -59,6 +59,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 
 - [Meshtastic](https://github.com/meshtastic/firmware) - Off-grid, encrypted LoRa mesh messaging; the reference ESP32 radio project. `ecosystem`
 - [Waycast](https://github.com/alviso/waycast) - Car-to-car LoRa mesh on an ESP32-P4 touchscreen dashboard: geo-ephemeral hazard reports, convoy position sharing, and offline maps, with no cellular dependency. ([site](https://waycast.io)) `p4`
+- [familybox](https://github.com/F86Pilot/familybox) - Photo and voice messages between a travelling parent and a child too young to read: the phone sends, the device shows the photo, and two buttons play the note or record a reply. ([demo](https://x.com/pmtiegs/status/2090134879875051709)) `s3-amoled`
 
 ### Audio & music
 
