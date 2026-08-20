@@ -53,6 +53,10 @@ Most of this section (plus pixelcat above) targets one board: the [Waveshare ESP
 
 - [ESP-KVM](https://github.com/espkvm/espkvm) - IP-KVM on an ESP32-P4 and a TC358743 HDMI bridge: captures the target machine's screen, presents itself to that machine as a USB keyboard and mouse, and puts both in a browser, down to the BIOS of a box with no working OS. ([demo](https://espkvm.io/demo/))
 
+### Drones & robotics
+
+- [ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - Phone-controlled DIY ESP32 drone with MPU6050 stabilization, height hold, and Wi-Fi control.
+
 ## Tools, utilities & libraries
 
 ### Frameworks & languages
