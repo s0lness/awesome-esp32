@@ -77,6 +77,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp-hal](https://github.com/esp-rs/esp-hal) - Bare-metal Rust for ESP32 chips.
 - [MicroPython](https://github.com/micropython/micropython) - Python on the chip, with first-class ESP32 support.
 - [ESPHome](https://github.com/esphome/esphome) - Describe a device in YAML, get firmware; the default way ESP32s enter Home Assistant. `ecosystem`
+- [tscircuit](https://github.com/tscircuit/tscircuit) - Framework that AI can use to quickly build ESP32 PCBs [(e.g. ESP32 bluetooth speaker)](https://tscircuit.com/seveibar/esp32-bluetooth-speaker#3d)
 
 ### Utilities & SDKs
 
