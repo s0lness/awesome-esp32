@@ -89,6 +89,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [open-bike-computer](https://github.com/seichris/open-bike-computer) - Garmin-mounted bike computer paired with its iPhone and Apple Watch app: Apple Maps navigation, live workout stats, Apple Health and Strava sync, power-meter and cadence sensors. `Waveshare ESP32-S3-Touch-AMOLED-1.75` or `Waveshare ESP32-S3-Touch-AMOLED-2.06`
 - [tempmeter](https://github.com/AideaHandesen-dvs/tempmeter) - Room thermometer built from an ESP32-C3 and a BME280 for about ¥1,500: temperature and humidity alternate on a TM1637 7-segment display, pressure and a JSON endpoint arrive over Wi-Fi, and the network is set from a phone through a captive portal. ([demo](https://youtu.be/Tk6F4vo_uOE))
 - [esp_ble_finder](https://github.com/khlebobul/esp_ble_finder) - BLE finder that hunts a misplaced phone by RSSI, with a dark dotted direction UI, a bar that fills as you close in, and speaker clicks that speed up with signal strength. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
+- [vkey](https://github.com/vaulttec-dev/vaulttec-key) - USB hardware key for TOTP codes, passwords and whole project `.env` files: AES-256-GCM under a PIN through Argon2id, bound to an eFuse HMAC key so a flash dump without the chip is useless, Secure Boot v2 on, and a button press for every secret — a tap releases, a five-second hold wipes, a double tap exports an encrypted backup. Bare-metal Rust, no ESP-IDF; no HID on the C6, so no FIDO. `Waveshare ESP32-C6-Zero`
 
 ## Tools, utilities & libraries
 
