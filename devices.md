@@ -144,3 +144,4 @@ instead:
 - **Tasmota, WLED, Meshtastic, ESPHome, xiaozhi-esp32**: firmware ecosystems running on
   hundreds to thousands of boards. Each publishes the compatibility list; no short answer
   here would be true.
+- **ESP32-Calculator**: an ESP32 development board, an SSD1306 128x64 OLED display, and a 7x5 matrix keypad, wired by you.
