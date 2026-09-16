@@ -92,6 +92,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp_ble_finder](https://github.com/khlebobul/esp_ble_finder) - BLE finder that hunts a misplaced phone by RSSI, with a dark dotted direction UI, a bar that fills as you close in, and speaker clicks that speed up with signal strength. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [The Badge](https://github.com/curisama/The-Badge) - Wearable round-screen tool that drives a computer over Bluetooth HID: a touchpad and an IMU air mouse, twelve keys a phone's soft keyboard does not have, a clock with timer and alarm, a recorder that mounts as a USB drive, and accelerometer fidgets, flashable from the browser and buildable against a desktop simulator. ([demo](https://github.com/curisama/The-Badge/blob/main/docs/img/real/desk.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-1.75C`
 - [ESP32-Calculator](https://github.com/RMNO21/ESP32-Calculator) - Hardware-driven advanced engineering calculator with SSD1306 OLED and matrix keypad running MicroPython, featuring calculus solvers, matrix operations, and function graphing. ([demo](https://github.com/RMNO21/ESP32-Calculator#features))
+- [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer) - Orientation-controlled Pomodoro timer that starts one of four presets when placed on a side, pauses when laid flat, and includes a customizable 3D-printable enclosure. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 
 ## Tools, utilities & libraries
 
