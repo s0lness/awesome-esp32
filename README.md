@@ -49,6 +49,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [trmnl firmware](https://github.com/usetrmnl/firmware) - Firmware behind the TRMNL e-ink dashboard, an ESP32-C3 driving a battery-friendly plugin ecosystem. `TRMNL`
 - [esp32-vertical-card-compass](https://github.com/austinbirch/esp32-vertical-card-compass) - Simulates an aviation vertical-card magnetic compass on an M5Stack CoreS3: the card swings, overshoots, and reproduces the real instrument's errors. ([demo](https://x.com/austinbirch/status/2086535581773828169)) `M5Stack CoreS3`
 - [stripe-business-metrics-monitor](https://github.com/cosjef/stripe-business-metrics-monitor) - Desk display for a Stripe subscription business, rotating eight screens of MRR and its 30-day trend, signup pace, ARPU compared across joining and leaving cohorts, and failed payments with the revenue at risk. `Waveshare ESP32-C6-Touch-AMOLED-2.16`
+- [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) - Desk display for Claude, ChatGPT, Gemini, GitHub Copilot, Cursor and Antigravity usage limits, shown as rings or bars with reset countdowns and fed over USB serial by a macOS (or beta Windows) companion app that also flashes the firmware. ([demo](https://tobymarks.github.io/esp32-ai-monitor/assets/display-chatgpt-front.jpg)) `Sunton ESP32-2432S028R`
 
 ### Play
 
