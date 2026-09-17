@@ -133,6 +133,12 @@ batches, and the KiCAD sources are published.
 ESP32-C3 RISC-V development board with Wi-Fi, Bluetooth LE, native USB and battery support in Seeed Studio's compact XIAO form factor.
 [Product page](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
 
+## Sunton ESP32-2432S028R
+
+The "Cheap Yellow Display": an ESP32-WROOM-32 with a 2.8-inch 320x240 resistive touch LCD, microSD slot, LED and CH340 USB-serial on one board. Most units use an ILI9341 panel controller, some ship with an ST7789, and firmware has to be built for the one fitted.
+[Product page](https://www.makerfabs.com/sunton-esp32-2-8-inch-tft-with-touch.html) ·
+[community documentation](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
