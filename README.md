@@ -49,6 +49,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [trmnl firmware](https://github.com/usetrmnl/firmware) - Firmware behind the TRMNL e-ink dashboard, an ESP32-C3 driving a battery-friendly plugin ecosystem. `TRMNL`
 - [esp32-vertical-card-compass](https://github.com/austinbirch/esp32-vertical-card-compass) - Simulates an aviation vertical-card magnetic compass on an M5Stack CoreS3: the card swings, overshoots, and reproduces the real instrument's errors. ([demo](https://x.com/austinbirch/status/2086535581773828169)) `M5Stack CoreS3`
 - [stripe-business-metrics-monitor](https://github.com/cosjef/stripe-business-metrics-monitor) - Desk display for a Stripe subscription business, rotating eight screens of MRR and its 30-day trend, signup pace, ARPU compared across joining and leaving cohorts, and failed payments with the revenue at risk. `Waveshare ESP32-C6-Touch-AMOLED-2.16`
+- [bird-feeder-esp32](https://github.com/iammartinj/bird-feeder-esp32) - A window onto a garden bird feeder where eleven kinds of visitor come and go through the day: the feeder hangs as a damped pendulum that every landing sets swinging, the branch above it bends in the wind, each bird's size comes from a depth map of the photograph, and the light follows the real-time clock from morning to night and autumn to winter. ([demo](https://github.com/iammartinj/bird-feeder-esp32/blob/main/docs/on-the-board-clip.webp)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 
 ### Play
 
