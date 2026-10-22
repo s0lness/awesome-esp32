@@ -69,6 +69,11 @@ ESP32-P4 with wired Ethernet and an ESP32-C6 radio co-processor.
 ESP32-P4 dev kit driving a 7-inch DSI touch panel.
 [Product page](https://www.waveshare.com/esp32-p4-module-dev-kit.htm)
 
+## Waveshare ESP32-C6-LCD-1.47
+
+ESP32-C6, 1.47-inch 172x320 ST7789 LCD, RGB LED, microSD slot.
+[Product page](https://www.waveshare.com/esp32-c6-lcd-1.47.htm)
+
 ## M5StickS3
 
 ESP32-S3 stick with a small display, IMU, microphone and battery.
