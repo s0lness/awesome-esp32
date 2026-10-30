@@ -29,6 +29,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 
 ### Companions
 
+- [esp32-thinks](https://github.com/raullenchai/esp32-thinks) - A multi-model Muse: say "Hi, ESP" or hold the PTT knob and the gadget answers out loud - streaming sentence TTS while the model is still writing, any OpenAI-compatible brain (STT/chat/TTS mix-and-match, presets for OpenAI and QuickSilver), headless Wi-Fi setup. Built on muse-gadget-sdk. `SenseCAP Watcher W1-B`
 - [chat-stick](https://github.com/steveruizok/chat-stick) - Hold-to-talk voice interface to Gemini Live, with persistent timers, server-side tools and OTA updates, running on either an M5StickS3 or a Waveshare ESP32-S3-Touch-AMOLED-1.8. ([demo](https://x.com/steveruizok/status/2081132808341176405)) `M5StickS3` or `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - MCP-based AI chatbot firmware powering a whole ecosystem of talking desk companions, across dozens of boards it lists itself.
 - [pixelcat](https://github.com/toddsherman/pixelcat) - Tamagotchi-style pixel cat on a Waveshare ESP32-S3-Touch-AMOLED-1.8 that learns your schedule, reacts to touch and sound, and can never irrecoverably die. ([demo](https://x.com/tdd/status/2088804262646288883)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
