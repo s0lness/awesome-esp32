@@ -191,6 +191,14 @@ the dual-USB ESP32-2432S028 looks almost identical, so count the USB sockets.
 Classic ESP32 with 8 MB flash behind a 1.54-inch 240x240 ST7789 IPS screen, a capacitive touch pad on top of the case, and USB-C for power only (no USB data), so firmware goes on over the stock firmware's Wi-Fi update page.
 [Product page](https://geekmagic.com/products/geekmagic-ultra)
 
+## VibeBuddy
+
+ESP32-S3 (ATK-MWS3S N16R8 module), 16 MB flash, 8 MB PSRAM, LCD, speaker, microphone,
+three buttons and a TF card slot in a small box; one USB-C cable powers it, flashes it and
+carries events. Sold assembled and flashed by Second State; the project's hardware notes
+cover building one yourself.
+[Product page](https://vibekeys.dev/vibebuddy.html)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
