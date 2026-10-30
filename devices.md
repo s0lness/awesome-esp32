@@ -199,6 +199,13 @@ carries events. Sold assembled and flashed by Second State; the project's hardwa
 cover building one yourself.
 [Product page](https://vibekeys.dev/vibebuddy.html)
 
+## VibeKeys Max
+
+ESP32-S3 with octal PSRAM, SPI LCD, I2S microphone, custom keys and a rotary knob in a
+wireless desk keypad; Wi-Fi for remote mode and OTA updates, settings written over Web
+Bluetooth.
+[Product page](https://vibekeys.dev/vibekeys-max.html)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
