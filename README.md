@@ -124,6 +124,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [psiop](https://github.com/aap/psiop) - A compact software 3D rendering library for the ESP32. ([demo](https://x.com/Alacritic_Super/status/2089987821352403387))
 - [openai-realtime-embedded](https://github.com/openai/openai-realtime-embedded) - OpenAI's official SDK for talking to the Realtime API over WebRTC from an ESP32-S3.
 - [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop) - Arduino library that speaks Apple Wireless Direct Link so an ESP32-S3 shows up in the AirDrop share sheet and receives a photo from an iPhone or Mac, or sends one back, with no pairing and no Wi-Fi network. ([demo](https://youtu.be/D7EdZe_lp2o)) `M5Stack StopWatch`
+- [ESP32 Agent Skills](https://github.com/Esmail-sarhadi/esp32-agent-skills) - Agent skills plus four command line checkers for pin maps, partition tables, battery life and panic dumps, so the mistake is caught before the board is flashed.
 
 ### Emulators & simulators
 
