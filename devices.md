@@ -79,6 +79,13 @@ ESP32-P4 dev kit driving a 7-inch DSI touch panel.
 ESP32-C6, 1.47-inch 172x320 ST7789 LCD, RGB LED, microSD slot.
 [Product page](https://www.waveshare.com/esp32-c6-lcd-1.47.htm)
 
+## Waveshare ESP32-C5-Touch-LCD-2.8
+
+ESP32-C5 in an ESP32-C5-WROOM-1-N32R8 module (32 MB flash, 8 MB PSRAM), 2.8-inch 240x320
+ST7789V2 SPI LCD with CST3530 touch, ES8311 audio codec and speaker, PCF85063A RTC,
+QMI8658 IMU, microSD slot.
+[Product page](https://www.waveshare.com/esp32-c5-touch-lcd-2.8.htm)
+
 ## M5StickS3
 
 ESP32-S3 stick with a small display, IMU, microphone and battery.
@@ -172,6 +179,14 @@ ESP32-S3 development board in Seeed Studio's compact XIAO form factor, with Wi-F
 Espressif development board based on ESP32-C3-MINI-1 or ESP32-C3-MINI-1U modules, with Wi-Fi, Bluetooth LE, and GPIO headers.
 [Product page](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html)
 
+## ESP32-S31-Korvo-1
+
+Espressif multimedia board on an ESP32-S31-WROOM-3 module, with an ES8389 audio codec and
+two speaker amplifiers, microSD slot, DVP camera and USB-A host. The kit's screen is the
+ESP32-S3-LCD-EV-Board-SUB3, a 4.3-inch 800x480 RGB panel with GT1151 touch, whose
+backlight cannot be dimmed.
+[User guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s31/esp32-s31-korvo-1/user_guide.html)
+
 ## Sunton ESP32-2432S028R
 
 The "Cheap Yellow Display": an ESP32-WROOM-32 with a 2.8-inch 320x240 resistive touch LCD, microSD slot, LED and CH340 USB-serial on one board. Most units use an ILI9341 panel controller, some ship with an ST7789, and firmware has to be built for the one fitted.
@@ -205,6 +220,45 @@ ESP32-S3 with octal PSRAM, SPI LCD, I2S microphone, custom keys and a rotary kno
 wireless desk keypad; Wi-Fi for remote mode and OTA updates, settings written over Web
 Bluetooth.
 [Product page](https://vibekeys.dev/vibekeys-max.html)
+
+## GUITION JC1060P470C_I_W
+
+ESP32-P4 and a separate ESP32-C6 radio module on a yellow PCB without a case, behind a
+7-inch 1024x600 MIPI DSI IPS touch screen (JD9165 panel, GT911 touch), with an ES8311
+audio codec, RX8025T RTC and microSD slot. GUITION sells more than one board as
+JC1060P470: the black-cased JC1060P470C_I_W_Y has a different module and pinout, and
+screens shipped from 2026 (marked V2) need a different panel init sequence.
+[Maker's downloads](https://www.guition.com/-download) ·
+[board notes, in Chinese](https://github.com/zhing2006/esp-gbx/blob/main/docs/boards/jc1060p470.md)
+
+## OSPTEK ESP32-P4C5-Module Dev Board
+
+Carrier board for OSPTEK's ESP32-P4C5 core module, an ESP32-P4 with an ESP32-C5 radio,
+16 MB flash and 32 MB PSRAM, with MIPI DSI and CSI connectors, ES8311 audio codec,
+microSD slot and USB-A host. Screens are sold separately, such as OSPTEK's 4.3-inch
+480x800 MIPI DSI touch screen.
+[Board repository](https://github.com/osptek/esp32-p4c5-module-dev-board)
+
+## Sila P4
+
+ESP32-P4 module with an ESP32-C6 radio, 720x720 MIPI DSI touch screen (ST7703 panel,
+GT911 touch), ES8311 audio codec, two microphones, microSD slot. No product page found.
+[Board notes, in Chinese](https://github.com/zhing2006/esp-gbx/blob/main/docs/boards/sila_p4.md)
+
+## Sila P4X AIBox
+
+ESP32-P4 with an ESP32-C5 radio, 32 MB flash and 32 MB PSRAM, a 6.2-inch 452x1280 MIPI
+DSI module whose AXS15260D drives both display and touch, ES8389 audio codec with two
+speakers, AXP2101 PMIC, microSD slot. No product page found.
+[Board notes, in Chinese](https://github.com/zhing2006/esp-gbx/blob/main/docs/boards/sila_p4x.md) ·
+[upstream firmware](https://gitee.com/Ergou-/esp32-p4xc5-aibox)
+
+## Waiken-Smart ESP32-S31 CB
+
+ESP32-S31-WROOM-3 core board (16 MB flash, 16 MB PSRAM) with a 40-pin RGB LCD connector,
+ES8389 audio codec, microSD slot and USB-A host, used with the same maker's 4.3-inch
+800x480 RGB touch screen WKS43WV067-WCT. No product page found.
+[Board notes, in Chinese](https://github.com/zhing2006/esp-gbx/blob/main/docs/boards/wks_s31_cb.md)
 
 ## No single device
 
