@@ -85,6 +85,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [Waycast](https://github.com/alviso/waycast) - Car-to-car LoRa mesh on a Waveshare ESP32-P4-Module-DEV-KIT with a 7-inch touch panel, a USB LoRa dongle and a USB GPS: geo-ephemeral hazard reports, convoy position sharing, and offline maps, with no cellular dependency. ([site](https://waycast.io)) `Waveshare ESP32-P4-Module-DEV-KIT`
 - [familybox](https://github.com/F86Pilot/familybox) - Photo and voice messages between a travelling parent and a child too young to read: the phone sends, a Waveshare ESP32-S3-Touch-AMOLED-1.8 shows the photo, and two buttons play the note or record a reply. ([demo](https://x.com/pmtiegs/status/2090134879875051709)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [TinySSTV](https://github.com/JO3ALT/TinySSTV) - Martin M1 SSTV transmitter that accepts images over its own Wi-Fi, stores 24-bit colour images on microSD, and synthesizes the SSTV audio directly on an ESP32-C3 GPIO. `Seeed Studio XIAO ESP32-C3`
+- [PulseBridge](https://github.com/Aditya123130/PulseBridge-Community) - USB-serial Protocol 3 research toolkit linking an ESP32 to a Raspberry Pi or Linux host, with CRC-16 framing, synthetic signal generation, latency instrumentation, and reproducible hardware validation. ([demo](https://github.com/Aditya123130/PulseBridge-Community/blob/main/docs/hardware-validation/2026-11-05/WhatsApp%20Image%202026-11-05%20at%209.47.12%20PM.jpeg))
 
 ### Audio & music
 
