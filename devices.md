@@ -260,6 +260,12 @@ ES8389 audio codec, microSD slot and USB-A host, used with the same maker's 4.3-
 800x480 RGB touch screen WKS43WV067-WCT. No product page found.
 [Board notes, in Chinese](https://github.com/zhing2006/esp-gbx/blob/main/docs/boards/wks_s31_cb.md)
 
+## ESP32-S3-HMI-DevKit
+
+ESP32-S3 at 240 MHz with 8 MB octal PSRAM and 16 MB flash, four MEMS microphones through
+an ES7210 codec, ES8311 audio output and a WS2812 LED chain.
+[Board repository](https://github.com/mfkiwl/ESP32-S3-HMI-DevKit)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
