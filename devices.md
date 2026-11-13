@@ -169,6 +169,11 @@ batches, and the KiCAD sources are published.
 ESP32-C3 RISC-V development board with Wi-Fi, Bluetooth LE, native USB and battery support in Seeed Studio's compact XIAO form factor.
 [Product page](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
 
+## SenseCAP Watcher W1-B
+
+ESP32-S3 with 8 MB PSRAM plus a Himax WiseEye2 HX6538 AI chip, 1.45" 412x412 round touchscreen, OV5647 camera, microphone, speaker, scroll knob and backup battery, in Seeed Studio's white enclosure.
+[Product page](https://www.seeedstudio.com/SenseCAP-Watcher-W1-B-p-5980.html)
+
 ## Seeed Studio XIAO ESP32S3
 
 ESP32-S3 development board in Seeed Studio's compact XIAO form factor, with Wi-Fi and native USB on its USB-C port.
