@@ -129,6 +129,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop) - Arduino library that speaks Apple Wireless Direct Link so an ESP32-S3 shows up in the AirDrop share sheet and receives a photo from an iPhone or Mac, or sends one back, with no pairing and no Wi-Fi network. ([demo](https://youtu.be/D7EdZe_lp2o)) `M5Stack StopWatch`
 - [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) - MCP server so Claude Code, Cursor or any AI agent can build, flash and debug an ESP32 through PlatformIO: pass/fail verdicts from the boot log, Guru Meditation backtraces decoded to source lines, flash and RAM size reports.
 - [onnx-wakeword](https://github.com/voicute/onnx-wakeword) - Offline wake word and keyword spotting engine running small TFLite models on an ESP32-S3, with free demo models and custom keywords trained on voicute.com, a paid service. ([demo](https://www.youtube.com/shorts/paNkv9Zdxx0)) `ESP32-S3-HMI-DevKit`
+- [NLTP](https://github.com/indian-aman/NLTP-Arduino) - Arduino and C99 wireless transport library for ESP-NOW and Wi-Fi UDP that combines LZ4 pre-compression, X25519 + ChaCha20-Poly1305 authenticated encryption, and systematic GF(2^8) Cauchy erasure coding to recover multi-kilobyte payloads across packet loss in 4,760 bytes of static sensor RAM. ([demo](https://indian-aman.github.io/necklink/nltp/))
 
 ### Emulators & simulators
 
