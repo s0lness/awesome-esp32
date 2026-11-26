@@ -109,6 +109,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer) - Orientation-controlled Pomodoro timer that starts one of four presets when placed on a side, pauses when laid flat, and includes a customizable 3D-printable enclosure. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Lets an AI vision model use a real iPhone: the board plugs into the phone's USB port as a USB mouse and keyboard and takes tap, swipe and type commands over Wi-Fi, while the phone's screen reaches the model through AirPlay mirroring. ([demo](https://www.youtube.com/watch?v=Ly4im-P4jYg)) `Seeed Studio XIAO ESP32S3`
 - [AmoledOS](https://github.com/charliejgallo/ESP32S3_AmoledOS) - Smartwatch firmware with sixteen watchfaces, apps loaded from the microSD card, iPhone notifications over BLE, and a desktop simulator. ([demo](https://github.com/charliejgallo/ESP32S3_AmoledOS/blob/main/docs/img/photo-case.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
+- [cyd-todo](https://github.com/gventino/cyd-todo) - To-do list and calendar that works like an RPG, where you write quests on your phone by scanning a QR code shown on the screen and a small Rust server keeps the data. `Sunton ESP32-2432S028R`
 
 ## Tools, utilities & libraries
 
