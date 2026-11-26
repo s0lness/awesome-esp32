@@ -58,6 +58,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) - Desk display for Claude, ChatGPT, Gemini, GitHub Copilot, Cursor and Antigravity usage limits, shown as rings or bars with reset countdowns and fed over USB serial by a macOS (or beta Windows) companion app that also flashes the firmware. ([demo](https://tobymarks.github.io/esp32-ai-monitor/assets/display-chatgpt-front.jpg)) `Sunton ESP32-2432S028R`
 - [esp_busy_tag](https://github.com/khlebobul/esp_busy_tag) - Open-source Busy Tag alternative that shows a FREE/BUSY/MEETING availability sign full-screen, switched with the onboard button or driven from a computer over USB serial, with a printable table dock. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [esp-notify](https://github.com/fkhadra/esp-notify) - Desk status monitor that polls GitHub, Cloudflare, Tailscale, Anthropic and OpenAI status pages, shows the worst severity on an RGB LED, and displays notifications pushed over HTTP. ([demo](https://github.com/fkhadra/esp-notify/blob/main/docs/images/status-list.jpg)) `Waveshare ESP32-C6-LCD-1.47`
+- [linuxcnc-wireless-display](https://github.com/DominicZe-DZ/linuxcnc-wireless-display) - Round display that sits next to a CNC mill and shows spindle RPM, feed, DRO and machine state from LinuxCNC over Wi-Fi, read-only by default, with signed OTA updates served by the LinuxCNC PC. ([demo](https://www.youtube.com/watch?v=hc-3DxGRdGc)) `Waveshare ESP32-S3-Touch-LCD-2.8C`
 
 ### Play
 

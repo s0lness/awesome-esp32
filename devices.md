@@ -86,6 +86,13 @@ ST7789V2 SPI LCD with CST3530 touch, ES8311 audio codec and speaker, PCF85063A R
 QMI8658 IMU, microSD slot.
 [Product page](https://www.waveshare.com/esp32-c5-touch-lcd-2.8.htm)
 
+## Waveshare ESP32-S3-Touch-LCD-2.8C
+
+ESP32-S3R8 (16 MB flash, 8 MB PSRAM), round 2.8-inch 480x480 IPS LCD on an RGB bus (ST7701)
+with GT911 capacitive touch, LiPo battery connector and TCA9554 GPIO expander. A different
+board from the ESP32-S3-Touch-LCD-2.8 and 2.8B, so firmware for those will not run on it.
+[Product page](https://www.waveshare.com/esp32-s3-touch-lcd-2.8c.htm)
+
 ## M5StickS3
 
 ESP32-S3 stick with a small display, IMU, microphone and battery.
