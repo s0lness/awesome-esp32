@@ -294,6 +294,7 @@ instead:
   transmit-power setting the SuperMini needs to keep its access point up.
 - **ESP32-Calculator**: an ESP32 development board, an SSD1306 128x64 OLED display, and a 7x5 matrix keypad, wired by you.
 - **IRis**: a 30-pin ESP32-WROOM-32 development board, a 1.3-inch SSD1306 or SH1106 OLED, a TSOP38238 receiver, two IR LEDs on a 2N2222, five tactile switches, an SPI microSD module and an 18650 cell with a charger and a boost converter, wired by you on perfboard. The repository has the parts list, the wiring and the printable case.
+- **Tapveo Core**: Seeed Studio XIAO ESP32-S3 (8 MB PSRAM, USB-C) or compatible ESP32-S3 board with native USB-OTG and BLE; supports 20-second browser flashing via WebSerial and optional USB-C to USB-C wired HID mode.
 - **Tasmota, WLED, Meshtastic, ESPHome, xiaozhi-esp32**: firmware ecosystems running on
   hundreds to thousands of boards. Each publishes the compatibility list; no short answer
   here would be true.
